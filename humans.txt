@@ -4,7 +4,8 @@
 # TEAM
 
     Aishwarya Deshpande 
-	number 3354034509
+	3354034509
+	
 
 # THANKS
 
@@ -16,3 +17,4 @@
     jQuery, Modernizr
 	Machine Learning, AWS, Google Cloud
 	
+
