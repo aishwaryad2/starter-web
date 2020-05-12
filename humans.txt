@@ -4,7 +4,8 @@
 # TEAM
 
     Aishwarya Deshpande 
-	number 3354034509
+	3354034509
+	
 
 # THANKS
 
@@ -14,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+	Docker, Java Programming
