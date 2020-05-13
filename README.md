@@ -7,6 +7,7 @@ Please consider the above line as introduction
 
 ## Purpose
 Sample website with plenty of files for demos
+Adding git rebase example
 
 ##GIT Comparisons
 Adding GIT comparisons lecture
