@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction 
 Please consider the above line as introduction
+And alot of lectures are still coming on
 
 ## Purpose
 Sample website with plenty of files for demos
