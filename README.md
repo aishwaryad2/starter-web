@@ -19,3 +19,4 @@ Fork the repo and raise pull request
 
 ## GITHub content
 Comparison with Repo
+Adding new lectures stash
