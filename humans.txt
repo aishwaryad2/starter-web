@@ -11,6 +11,7 @@ Adding important notes on GIT stash
 # THANKS
 
     Thanks to the whole world
+	Thanks for contribution
 
 # TECHNOLOGY COLOPHON
 
